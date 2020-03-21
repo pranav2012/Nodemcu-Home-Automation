@@ -62,6 +62,6 @@ outletFour = new Switch("Outlet Four", 87,outletFourOn, outletFourOff);
 
 ```
 
-If You Are Looking for  Channel Relay Coding for Alexa by Raspberry,[Check code on GitHub](https://github.com/Phantom-Cluster/Alexa-Raspberry-Single-Relay)
+If You Are Looking for Proper Video ,[Check code on YouTube](https://www.youtube.com/watch?v=Uib0XXfhzd4)
 
 
